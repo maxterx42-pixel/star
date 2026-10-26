@@ -66,5 +66,25 @@ const popularesData = [
             { num: 3, nombre: "Episodio 3", titulo: "The Black Tea Scented Witch's Song", descripcion: "With every visit, Harij helps Rose realize things she's overlooked before. Even of a certain song she sings.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/87FIm0cbVhirCzV3Uc77pDKNQEA.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep03.es-419.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep03.en.vtt" },
             { num: 4, nombre: "Episodio 4", titulo: "Episode 4", descripcion: "", duracion: "25m", thumb: "https://artworks.thetvdb.com/banners/v4/episode/12020397/screencap/6adb36828693e.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep04.es-419.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep04.en.vtt" }
         ]
+    },
+    {
+        id: "My",
+        titulo: "My Girlfriend's Friend",
+        titulo_jp: "彼女の友達",
+        poster: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211877-yWQ2r7XmWvG6.jpg",
+        logo: "https://image.tmdb.org/t/p/original/q5soOIgiAsNuxbkRiBXl00OfRRG.png",
+        fondo: "https://image.tmdb.org/t/p/original/7CSqPaizCugNAznzmUUVQKbj6KO.jpg",
+        rating: "TV-14",
+        generos: ["Drama", "Ecchi", "Romance"],
+        temporada: "Otoño 2026",
+        ano: "2026",
+        calidad: "HD",
+        sinopsis: "For the first time in my life, I have a girlfriend. But her friend tempts me with a body that's so seductive... What would you do if your girlfriend's friend came on to you like this?",
+        episodios: [
+            { num: 1, nombre: "Episodio 1", titulo: "Episode 1", descripcion: "Takeru's new girlfriend, Kaori, suggests they go on a karaoke date. Takeru is stumped by this unexpected request, especially since he's terrible at singing. While at a loss for words, Kaori's friend Tomoko, who just happened to be there, says she wants to join them, and the three of them end up going together.", duracion: "12m", thumb: "https://image.tmdb.org/t/p/original/oBWLrOEpLTQN4K0mRU4jUbtRDik.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "", subtitulo_en: "" },
+            { num: 2, nombre: "Episodio 2", titulo: "Episode 2", descripcion: "After karaoke, Takeru and Kaori hold hands as they walk home, going with the flow. Kaori is thrilled that it's their first time, but Takeru is distracted, recalling his earlier interaction with Tomoko. Ignoring Takeru's distracted state, Kaori asks for a kiss and, carried away by the moment, leans in toward him.", duracion: "12m", thumb: "https://image.tmdb.org/t/p/original/tRlAPYRvZOriGqow3J2BxZTXE3U.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "", subtitulo_en: "" },
+            { num: 3, nombre: "Episodio 3", titulo: "Episode 3", descripcion: "As a sign of reconciliation, Kaori goes to Takeru's apartment. Takeru warmly encourages her while she smiles and does her best at cooking, something she's not good at. Then, Kaori, unable to hold back her emotions, throws her arms around him. Thinking that she put him off again, Kaori tries to leave, but Takeru pulls her back and kisses her.", duracion: "12m", thumb: "https://image.tmdb.org/t/p/original/urqtngM3N9fmiZbQKqkKcku0lTu.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "", subtitulo_en: "" },
+            { num: 4, nombre: "Episodio 4", titulo: "Episode 4", descripcion: "Takeru jolts awake as the flashbacks of his encounter with Tomoko, which seemed to erase his promise to Kaori, flood his mind. When he sits up, his gaze falls on Tomoko, with whom he spent the night, as she prepares breakfast with practiced ease.", duracion: "12m", thumb: "https://image.tmdb.org/t/p/original/bX0fgeGjzBGnzBlbZeYZzqZyJ4V.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "", subtitulo_en: "" }
+        ]
     }
 ];
