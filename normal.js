@@ -46,5 +46,25 @@ const popularesData = [
             { num: 11, nombre: "Episodio 11", titulo: "Eryngii Brockovich", descripcion: "Con una prórroga de un día, los chicos deben volver a ejecutar un plan para entrar en la oficina de correcciones, pero el Consejo Estudiantil Subterráneo no se lo pondrá fácil. Hana tiene una cuenta personal pendiente que quiere saldar con Kiyoshi.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/aVSusIyCXJ17ZkowOrLETcjk68A.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "", subtitulo_en: "https://maxterx42-pixel.github.io/star/prison-school/subs/ep11.en.vtt" },
             { num: 12, nombre: "Episodio 12", titulo: "¡Buenos días, prisión!", descripcion: "Hana sigue presionando a Kiyoshi para cobrar su venganza, pero Kiyoshi emplea una adaptación de una estrategia militar clásica para contrarrestarla. Cuando todos los chicos queden encerrados en sus celdas por la noche, ¿lograrán completar su plan?", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/6iPioDaSObBY8xgVnmqFthgKH8D.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "", subtitulo_en: "https://maxterx42-pixel.github.io/star/prison-school/subs/ep12.en.vtt" }
         ]
+    },
+    {
+        id: "Hello",
+        titulo: "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+        titulo_jp: "どうも、好きな人に惚れ薬を依頼された魔女です。",
+        poster: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg",
+        logo: "https://image.tmdb.org/t/p/original/5D9kwwmONWYhWiAAL0jMZ83Skgz.png",
+        fondo: "https://image.tmdb.org/t/p/original/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
+        rating: "TV-14",
+        generos: ["Fantasía", "Romance"],
+        temporada: "Otoño 2026",
+        ano: "2026",
+        calidad: "HD",
+        sinopsis: "“Make me a love potion.” And with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?",
+        episodios: [
+            { num: 1, nombre: "Episodio 1", titulo: "The Witch and the Potion of Unrequited Love", descripcion: "The Witch of the Lake, Rose, falls for a knight, who later visits her seeking a love potion.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/iVMn0wKWjLWzCYz5mlt6Oxy54HW.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep01.es-419.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep01.en.vtt" },
+            { num: 2, nombre: "Episodio 2", titulo: "The Good Witch of the Lake", descripcion: "Rose finds herself being conscious of her looks while Harij begins to wonder about her disheveled lifestyle.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/6D8iNp8YpV6SFFlA7uKGAWovSGO.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep02.es-419.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep02.en.vtt" },
+            { num: 3, nombre: "Episodio 3", titulo: "The Black Tea Scented Witch's Song", descripcion: "With every visit, Harij helps Rose realize things she's overlooked before. Even of a certain song she sings.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/87FIm0cbVhirCzV3Uc77pDKNQEA.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep03.es-419.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep03.en.vtt" },
+            { num: 4, nombre: "Episodio 4", titulo: "Episode 4", descripcion: "", duracion: "25m", thumb: "https://artworks.thetvdb.com/banners/v4/episode/12020397/screencap/6adb36828693e.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep04.es-419.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/subs/ep04.en.vtt" }
+        ]
     }
 ];
