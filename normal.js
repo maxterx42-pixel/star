@@ -89,7 +89,7 @@ const popularesData = [
         ]
     },
     {
-        id: "High",
+        id: "High2",
         titulo: "High School of the Dead: Drifters of the Dead",
         titulo_jp: "学園黙示録HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド",
         poster: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx9515-Bmnn8nMYyYuY.jpg",
