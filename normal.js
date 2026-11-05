@@ -160,5 +160,27 @@ const popularesData = [
             { num: 11, nombre: "Episodio 11", titulo: "La Reliquia de Tian Fu", descripcion: "Mientras busca la Reliquia de Tian Fu, Jooheon encuentra un campo de té subterráneo donde trabajan chicos.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/yO8W8j7zhwDeDFKThdDai7XeHhz.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/dogul-wang/subs/ep11.es-419.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/dogul-wang/subs/ep11.en.vtt" },
             { num: 12, nombre: "Episodio 12", titulo: "Rey de los Saqueadores de Tumbas", descripcion: "Jooheon e Irene regresan a la casa de Holton para sanar a sus padres... solo para descubrir que ha sido atacada.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/yzWCytDsX3I3MEuF78DWHGJmjpb.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/dogul-wang/subs/ep12.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/dogul-wang/subs/ep12.en.vtt" }
         ]
+    },
+    {
+        id: "Reincarnated",
+        titulo: "Reincarnated as a Sword Season 2",
+        titulo_jp: "転生したら剣でした 第2期",
+        poster: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/poster.png",
+        logo: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/logo.png",
+        fondo: "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+        rating: "TV-14",
+        generos: ["Acción", "Aventura", "Fantasía"],
+        temporada: "Otoño 2026",
+        ano: "2026",
+        calidad: "HD",
+        sinopsis: "La segunda temporada de Tensei Shitara Ken Deshita.",
+        episodios: [
+            { num: 1, nombre: "Episodio 1", titulo: "La Isla Flotante", descripcion: "Fran y Teacher se unen con un nigromante bondadoso para conquistar una mazmorra en una isla flotante.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/eYxv70lw3yGqJyGwCk3QedN5puk.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep01.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep01.en.vtt" },
+            { num: 2, nombre: "Episodio 2", titulo: "Jean du Vix Conoce Su Oficio", descripcion: "La experiencia de Jean resulta invaluable mientras los peligros de la mazmorra y su oscura historia se revelan.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/kaIaxnsrOJH0Qtd9SJLsS0KSoJC.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep02.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep02.en.vtt" },
+            { num: 3, nombre: "Episodio 3", titulo: "El Monstruo No-Muerto Era Duro de Roer", descripcion: "El guardián de la mazmorra demuestra ser un oponente formidable.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/v1aZz4Rn4CwQVAQGmoRbYOgRCUP.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep03.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep03.en.vtt" },
+            { num: 4, nombre: "Episodio 4", titulo: "La Batalla Desesperada Contra el Rey de los Muertos", descripcion: "Se necesitará más que pura fuerza para derrotar al Lich.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/A3o0DeNUwWfQEpCwGOj5GDfVZ6n.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep04.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep04.en.vtt" },
+            { num: 5, nombre: "Episodio 5", titulo: "Una Despedida Sonriente", descripcion: "Teacher debe desatar todo su potencial para traer a Fran de vuelta del borde de la muerte.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/mYlvf64sGGVaNoInXLzt48chCCx.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep05.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep05.en.vtt" },
+            { num: 6, nombre: "Episodio 6", titulo: "La Experiencia de la Playa Salada", descripcion: "La búsqueda de Fran y Teacher por un posada se detiene cuando quedan atrapados en una red de tráfico de menores.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/y2YDmOnPiV672X1UZDIqcn8UC83.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep06.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep06.en.vtt" }
+        ]
     }
 ];
