@@ -182,5 +182,26 @@ const popularesData = [
             { num: 5, nombre: "Episodio 5", titulo: "Una Despedida Sonriente", descripcion: "Teacher debe desatar todo su potencial para traer a Fran de vuelta del borde de la muerte.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/mYlvf64sGGVaNoInXLzt48chCCx.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep05.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep05.en.vtt" },
             { num: 6, nombre: "Episodio 6", titulo: "La Experiencia de la Playa Salada", descripcion: "La búsqueda de Fran y Teacher por un posada se detiene cuando quedan atrapados en una red de tráfico de menores.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/y2YDmOnPiV672X1UZDIqcn8UC83.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep06.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/reincarnated-as-a-sword-season-2/subs/ep06.en.vtt" }
         ]
+    },
+    {
+        id: "Black",
+        titulo: "Black Clover Season 2",
+        titulo_jp: "ブラッククローバー 第2期",
+        poster: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
+        logo: "https://artworks.thetvdb.com/banners/v4/series/331753/clearlogo/611c1abd9aca1.png",
+        fondo: "https://image.tmdb.org/t/p/original/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+        rating: "TV-14",
+        generos: ["Acción", "Aventura", "Comedia", "Fantasía"],
+        temporada: "Otoño 2026",
+        ano: "2026",
+        calidad: "HD",
+        sinopsis: "Mientras la tiranía envuelve el Reino de Trébol, Asta y los Caballeros Mágicos lanzan un ataque desesperado al Reino de Espadas para rescatar a los capitanes de su escuadrón de la Tríada Oscura. Pero su misión los lleva a una batalla brutal contra fuerzas más allá de cualquier cosa que hayan enfrentado. Ahora, Asta debe elevarse por encima de probabilidades imposibles para proteger a sus amigos y honrar la promesa que hizo a Yuno.",
+        episodios: [
+            { num: 1, nombre: "Episodio 1", titulo: "Comienza la batalla", descripcion: "Asta entrena con Nacht y los Caballeros Mágicos preparan un ataque para recuperar a Yami y Vangeance.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/wKaWS9VbvZrl8V7gSpThYYqkNuW.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/black-clover-season-2/subs/ep01.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/black-clover-season-2/subs/ep01.en.vtt" },
+            { num: 2, nombre: "Episodio 2", titulo: "La Puerta del Infierno", descripcion: "Mereoleona enfrenta al demonio antiguo mientras los Caballeros Mágicos se apresuran a impedir que la Puerta del Infierno se abra.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/vWPi2ABa2gVxEvhJBye6NwU5plQ.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/black-clover-season-2/subs/ep02.es-419.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/black-clover-season-2/subs/ep02.en.vtt" },
+            { num: 3, nombre: "Episodio 3", titulo: "Guardián Negro", descripcion: "La puerta del inframundo finalmente se abre. ¿Qué harán los Caballeros Mágicos?", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/bKxeP8GVyZdhf2sDsfhIKgwGnXn.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/black-clover-season-2/subs/ep03.es-419.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/black-clover-season-2/subs/ep03.en.vtt" },
+            { num: 4, nombre: "Episodio 4", titulo: "Día de Expiación", descripcion: "Nacht recuerda su pasado mientras intenta terminar su batalla contra dos demonios supremos.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/3D5oN0sUEvGGBuptDuBzaWQy8DG.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/black-clover-season-2/subs/ep04.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/black-clover-season-2/subs/ep04.en.vtt" },
+            { num: 5, nombre: "Episodio 5", titulo: "El Más Alto vs. El Más Bajo", descripcion: "Dos Caballeros Mágicos inesperados se presentan para enfrentarse a Dante de la Tríada Oscura.", duracion: "25m", thumb: "https://image.tmdb.org/t/p/original/vWcMBqXCkFfGc2ZDUJC6HRTvzY.jpg", sprite: "", spriteImg: "", link: "", subtitulo: "https://maxterx42-pixel.github.io/star/black-clover-season-2/subs/ep05.es.vtt", subtitulo_en: "https://maxterx42-pixel.github.io/star/black-clover-season-2/subs/ep05.en.vtt" }
+        ]
     }
 ];
